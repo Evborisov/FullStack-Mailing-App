@@ -1,5 +1,5 @@
 {
-	"name": "contact-list",
+	"name": "mailing-app",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -12,7 +12,6 @@
 		"npm": "6.9.0",
 		"node": "8.11.4"
 	},
-	"author": "Bulent",
 	"license": "MIT",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
